@@ -133,4 +133,7 @@
 		</dependency>
 	</dependencies>
 
+	<modules>
+		<module>library-model</module>
+	</modules>
 </project>
